@@ -1,6 +1,7 @@
 export default function tuntun() {
   
 
-  const test = "paster lksfjasdkl fjaslkdfjaskd"
+  const test = "hello world 123"
+  const test1 = "bye world"
   
 }
