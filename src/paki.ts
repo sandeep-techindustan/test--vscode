@@ -1,6 +1,6 @@
 export default function tuntun() {
   
 
-  const test = "askld fklasdf jlkdsafj ladksjflkajsdfl kjasdf"
+  const test = "dunia wallo krlo jo bhi hota hai"
   
 }
