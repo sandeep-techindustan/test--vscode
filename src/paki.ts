@@ -1,6 +1,6 @@
 export default function tuntun() {
   
 
-  const test = "test"
+  const test = "askld fklasdf jlkdsafj ladksjflkajsdfl kjasdf"
   
 }
